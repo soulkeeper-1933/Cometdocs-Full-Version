@@ -238,3 +238,6 @@ This repository serves as the official landing page for Cometdocs. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Cometdocs today!**
+
+---
+**Last updated:** 2026-09-12 05:14:37 UTC
