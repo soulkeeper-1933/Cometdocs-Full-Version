@@ -240,4 +240,4 @@ This repository serves as the official landing page for Cometdocs. The software 
 **Get the most recent version of Cometdocs today!**
 
 ---
-**Last updated:** 2026-09-16 23:23:07 UTC
+**Last updated:** 2026-09-17 02:20:56 UTC
